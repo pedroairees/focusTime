@@ -28,7 +28,7 @@ html:not(.light) .ph-moon{
     display: none;
 }
 
-#toogle-mode{
+#toggle-mode{
     position: absolute;
     right: 3.2rem;
     top: 3.2rem;
